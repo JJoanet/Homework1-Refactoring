@@ -1,38 +1,17 @@
 ## Live Deploy
+https://vygoth.github.io/Homework1-Refactoring/
 
-# ReadmeGenerator
+# Homework 1 Refactoring
 
 # Contact
 Vygoth
 JeremyJoanet@Protonmail.com
 
 ## Description
-This Application allows users to create README files on the fly!
+First homework assignment of this coding bootcamp, assignment was to take wet code and try our best to refactor it as best we could.
 
 ## Table of Contents
-- [Usage](#Usage)
-- [Installation](#Dependancies)
-- [Testing](#Testing)
-- [Credits](#Credits)
-- [License](#License)
-- [Contributing](#Contributing)
-- [License Information](#LicenseInfo)
 - [Screenshot](#Screenshot)
 
-## Usage
-To begin this application, please type node index.js with node installed.
-
-## Dependancies
-npm i
-
-## Testing
-N/A
-
-## Credits
-Zach Duty, Matt Reisdorf
-
-## Contributing
-N/A
-
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./assets/images/HomeworkOne.PNG)
